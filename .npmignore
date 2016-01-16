@@ -11,5 +11,6 @@ grunt/*.js
 test
 tmp
 *.sublime-project
+*.sublime-workspace
 examples
 docs
