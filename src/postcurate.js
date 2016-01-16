@@ -20,8 +20,8 @@ var cells = util.convertMatrixToList(matrix).map(function(cell){
 console.log(cells);
 
 fs.writeFileSync(outputDir + '/gridmap-layout-thailand.json', JSON.stringify(cells));
-fs.writeFileSync(outputDir + '/gridmap-layout-thailand.csv', ['x,y,thAbbr,thName,enAbbr,enName'].concat(cells.map(function(cell){
-  return [cell.x, cell.y, cell.thAbbr, cell.thName, cell.enAbbr, cell.enName].join(',');
+fs.writeFileSync(outputDir + '/gridmap-layout-thailand.csv', ['x,y,localAbbr,localName,enAbbr,enName'].concat(cells.map(function(cell){
+  return [cell.x, cell.y, cell.localAbbr, cell.localName, cell.enAbbr, cell.enName].join(',');
 })).join('\n'));
 
 var txt = '';

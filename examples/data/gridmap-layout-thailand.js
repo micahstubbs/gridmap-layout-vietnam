@@ -20,616 +20,616 @@
     "y": 0,
     "enName": "ChiangRai",
     "enAbbr": "CRI",
-    "thName": "เชียงราย",
-    "thAbbr": "ชร"
+    "localName": "เชียงราย",
+    "localAbbr": "ชร"
   },
   {
     "x": 0,
     "y": 1,
     "enName": "MaeHongSon",
     "enAbbr": "MSN",
-    "thName": "แม่ฮ่องสอน",
-    "thAbbr": "มส"
+    "localName": "แม่ฮ่องสอน",
+    "localAbbr": "มส"
   },
   {
     "x": 1,
     "y": 1,
     "enName": "ChiangMai",
     "enAbbr": "CMI",
-    "thName": "เชียงใหม่",
-    "thAbbr": "ชม"
+    "localName": "เชียงใหม่",
+    "localAbbr": "ชม"
   },
   {
     "x": 2,
     "y": 1,
     "enName": "Phayao",
     "enAbbr": "PYO",
-    "thName": "พะเยา",
-    "thAbbr": "พย"
+    "localName": "พะเยา",
+    "localAbbr": "พย"
   },
   {
     "x": 3,
     "y": 1,
     "enName": "Nan",
     "enAbbr": "NAN",
-    "thName": "น่าน",
-    "thAbbr": "นน"
+    "localName": "น่าน",
+    "localAbbr": "นน"
   },
   {
     "x": 0,
     "y": 2,
     "enName": "Lamphun",
     "enAbbr": "LPN",
-    "thName": "ลำพูน",
-    "thAbbr": "ลพ"
+    "localName": "ลำพูน",
+    "localAbbr": "ลพ"
   },
   {
     "x": 1,
     "y": 2,
     "enName": "Lampang",
     "enAbbr": "LPG",
-    "thName": "ลำปาง",
-    "thAbbr": "ลป"
+    "localName": "ลำปาง",
+    "localAbbr": "ลป"
   },
   {
     "x": 2,
     "y": 2,
     "enName": "Phrae",
     "enAbbr": "PRE",
-    "thName": "แพร่",
-    "thAbbr": "พร"
+    "localName": "แพร่",
+    "localAbbr": "พร"
   },
   {
     "x": 3,
     "y": 2,
     "enName": "Uttaradit",
     "enAbbr": "UTT",
-    "thName": "อุตรดิตถ์",
-    "thAbbr": "อต"
+    "localName": "อุตรดิตถ์",
+    "localAbbr": "อต"
   },
   {
     "x": 0,
     "y": 3,
     "enName": "Tak",
     "enAbbr": "TAK",
-    "thName": "ตาก",
-    "thAbbr": "ตก"
+    "localName": "ตาก",
+    "localAbbr": "ตก"
   },
   {
     "x": 1,
     "y": 3,
     "enName": "Sukhothai",
     "enAbbr": "STI",
-    "thName": "สุโขทัย",
-    "thAbbr": "สท"
+    "localName": "สุโขทัย",
+    "localAbbr": "สท"
   },
   {
     "x": 2,
     "y": 3,
     "enName": "Phitsanulok",
     "enAbbr": "PLK",
-    "thName": "พิษณุโลก",
-    "thAbbr": "พล"
+    "localName": "พิษณุโลก",
+    "localAbbr": "พล"
   },
   {
     "x": 1,
     "y": 4,
     "enName": "KamphaengPhet",
     "enAbbr": "KPT",
-    "thName": "กำแพงเพชร",
-    "thAbbr": "กพ"
+    "localName": "กำแพงเพชร",
+    "localAbbr": "กพ"
   },
   {
     "x": 2,
     "y": 4,
     "enName": "Phichit",
     "enAbbr": "PCT",
-    "thName": "พิจิตร",
-    "thAbbr": "พจ"
+    "localName": "พิจิตร",
+    "localAbbr": "พจ"
   },
   {
     "x": 3,
     "y": 4,
     "enName": "Loei",
     "enAbbr": "LEI",
-    "thName": "เลย",
-    "thAbbr": "ลย"
+    "localName": "เลย",
+    "localAbbr": "ลย"
   },
   {
     "x": 4,
     "y": 4,
     "enName": "NongKhai",
     "enAbbr": "NKI",
-    "thName": "หนองคาย",
-    "thAbbr": "นค"
+    "localName": "หนองคาย",
+    "localAbbr": "นค"
   },
   {
     "x": 5,
     "y": 4,
     "enName": "BeungKan",
     "enAbbr": "BKN",
-    "thName": "บึงกาฬ",
-    "thAbbr": "บก"
+    "localName": "บึงกาฬ",
+    "localAbbr": "บก"
   },
   {
     "x": 6,
     "y": 4,
     "enName": "SakonNakhon",
     "enAbbr": "SNK",
-    "thName": "สกลนคร",
-    "thAbbr": "สน"
+    "localName": "สกลนคร",
+    "localAbbr": "สน"
   },
   {
     "x": 7,
     "y": 4,
     "enName": "NakhonPhanom",
     "enAbbr": "NPM",
-    "thName": "นครพนม",
-    "thAbbr": "นพ"
+    "localName": "นครพนม",
+    "localAbbr": "นพ"
   },
   {
     "x": 1,
     "y": 5,
     "enName": "UthaiThani",
     "enAbbr": "UTI",
-    "thName": "อุทัยธานี",
-    "thAbbr": "อน"
+    "localName": "อุทัยธานี",
+    "localAbbr": "อน"
   },
   {
     "x": 2,
     "y": 5,
     "enName": "NakhonSawan",
     "enAbbr": "NSN",
-    "thName": "นครสวรรค์",
-    "thAbbr": "นว"
+    "localName": "นครสวรรค์",
+    "localAbbr": "นว"
   },
   {
     "x": 3,
     "y": 5,
     "enName": "Phetchabun",
     "enAbbr": "PNB",
-    "thName": "เพชรบูรณ์",
-    "thAbbr": "พช"
+    "localName": "เพชรบูรณ์",
+    "localAbbr": "พช"
   },
   {
     "x": 4,
     "y": 5,
     "enName": "NongBuaLamPhu",
     "enAbbr": "NBP",
-    "thName": "หนองบัวลำภู",
-    "thAbbr": "นภ"
+    "localName": "หนองบัวลำภู",
+    "localAbbr": "นภ"
   },
   {
     "x": 5,
     "y": 5,
     "enName": "UdonThani",
     "enAbbr": "UDN",
-    "thName": "อุดรธานี",
-    "thAbbr": "อด"
+    "localName": "อุดรธานี",
+    "localAbbr": "อด"
   },
   {
     "x": 6,
     "y": 5,
     "enName": "Kalasin",
     "enAbbr": "KSN",
-    "thName": "กาฬสินธุ์",
-    "thAbbr": "กส"
+    "localName": "กาฬสินธุ์",
+    "localAbbr": "กส"
   },
   {
     "x": 7,
     "y": 5,
     "enName": "Mukdahan",
     "enAbbr": "MDH",
-    "thName": "มุกดาหาร",
-    "thAbbr": "มห"
+    "localName": "มุกดาหาร",
+    "localAbbr": "มห"
   },
   {
     "x": 1,
     "y": 6,
     "enName": "ChaiNat",
     "enAbbr": "CNT",
-    "thName": "ชัยนาท",
-    "thAbbr": "ชน"
+    "localName": "ชัยนาท",
+    "localAbbr": "ชน"
   },
   {
     "x": 2,
     "y": 6,
     "enName": "SingBuri",
     "enAbbr": "SBR",
-    "thName": "สิงห์บุรี",
-    "thAbbr": "สห"
+    "localName": "สิงห์บุรี",
+    "localAbbr": "สห"
   },
   {
     "x": 3,
     "y": 6,
     "enName": "LopBuri",
     "enAbbr": "LRI",
-    "thName": "ลพบุรี",
-    "thAbbr": "ลบ"
+    "localName": "ลพบุรี",
+    "localAbbr": "ลบ"
   },
   {
     "x": 4,
     "y": 6,
     "enName": "Chaiyaphum",
     "enAbbr": "CPM",
-    "thName": "ชัยภูมิ",
-    "thAbbr": "ชย"
+    "localName": "ชัยภูมิ",
+    "localAbbr": "ชย"
   },
   {
     "x": 5,
     "y": 6,
     "enName": "KhonKaen",
     "enAbbr": "KKN",
-    "thName": "ขอนแก่น",
-    "thAbbr": "ขก"
+    "localName": "ขอนแก่น",
+    "localAbbr": "ขก"
   },
   {
     "x": 6,
     "y": 6,
     "enName": "MahaSarakham",
     "enAbbr": "MKM",
-    "thName": "มหาสารคาม",
-    "thAbbr": "มค"
+    "localName": "มหาสารคาม",
+    "localAbbr": "มค"
   },
   {
     "x": 7,
     "y": 6,
     "enName": "RoiEt",
     "enAbbr": "RET",
-    "thName": "ร้อยเอ็ด",
-    "thAbbr": "รอ"
+    "localName": "ร้อยเอ็ด",
+    "localAbbr": "รอ"
   },
   {
     "x": 8,
     "y": 6,
     "enName": "Yasothon",
     "enAbbr": "YST",
-    "thName": "ยโสธร",
-    "thAbbr": "ยส"
+    "localName": "ยโสธร",
+    "localAbbr": "ยส"
   },
   {
     "x": 9,
     "y": 6,
     "enName": "AmnatCharoen",
     "enAbbr": "ACR",
-    "thName": "อำนาจเจริญ",
-    "thAbbr": "อจ"
+    "localName": "อำนาจเจริญ",
+    "localAbbr": "อจ"
   },
   {
     "x": 1,
     "y": 7,
     "enName": "SuphanBuri",
     "enAbbr": "SPB",
-    "thName": "สุพรรณบุรี",
-    "thAbbr": "สพ"
+    "localName": "สุพรรณบุรี",
+    "localAbbr": "สพ"
   },
   {
     "x": 2,
     "y": 7,
     "enName": "AngThong",
     "enAbbr": "ATG",
-    "thName": "อ่างทอง",
-    "thAbbr": "อท"
+    "localName": "อ่างทอง",
+    "localAbbr": "อท"
   },
   {
     "x": 3,
     "y": 7,
     "enName": "PhraNakhonSiAyutthaya",
     "enAbbr": "AYA",
-    "thName": "พระนครศรีอยุธยา",
-    "thAbbr": "อย"
+    "localName": "พระนครศรีอยุธยา",
+    "localAbbr": "อย"
   },
   {
     "x": 4,
     "y": 7,
     "enName": "Saraburi",
     "enAbbr": "SRI",
-    "thName": "สระบุรี",
-    "thAbbr": "สบ"
+    "localName": "สระบุรี",
+    "localAbbr": "สบ"
   },
   {
     "x": 5,
     "y": 7,
     "enName": "NakhonRatchasima",
     "enAbbr": "NMA",
-    "thName": "นครราชสีมา",
-    "thAbbr": "นม"
+    "localName": "นครราชสีมา",
+    "localAbbr": "นม"
   },
   {
     "x": 6,
     "y": 7,
     "enName": "BuriRam",
     "enAbbr": "BRM",
-    "thName": "บุรีรัมย์",
-    "thAbbr": "บร"
+    "localName": "บุรีรัมย์",
+    "localAbbr": "บร"
   },
   {
     "x": 7,
     "y": 7,
     "enName": "Surin",
     "enAbbr": "SRN",
-    "thName": "สุรินทร์",
-    "thAbbr": "สร"
+    "localName": "สุรินทร์",
+    "localAbbr": "สร"
   },
   {
     "x": 8,
     "y": 7,
     "enName": "SiSaKet",
     "enAbbr": "SSK",
-    "thName": "ศรีสะเกษ",
-    "thAbbr": "ศก"
+    "localName": "ศรีสะเกษ",
+    "localAbbr": "ศก"
   },
   {
     "x": 9,
     "y": 7,
     "enName": "UbonRatchathani",
     "enAbbr": "UBN",
-    "thName": "อุบลราชธานี",
-    "thAbbr": "อบ"
+    "localName": "อุบลราชธานี",
+    "localAbbr": "อบ"
   },
   {
     "x": 1,
     "y": 8,
     "enName": "Kanchanaburi",
     "enAbbr": "KRI",
-    "thName": "กาญจนบุรี",
-    "thAbbr": "กจ"
+    "localName": "กาญจนบุรี",
+    "localAbbr": "กจ"
   },
   {
     "x": 2,
     "y": 8,
     "enName": "Nonthaburi",
     "enAbbr": "NBI",
-    "thName": "นนทบุรี",
-    "thAbbr": "นบ"
+    "localName": "นนทบุรี",
+    "localAbbr": "นบ"
   },
   {
     "x": 3,
     "y": 8,
     "enName": "PathumThani",
     "enAbbr": "PTE",
-    "thName": "ปทุมธานี",
-    "thAbbr": "ปท"
+    "localName": "ปทุมธานี",
+    "localAbbr": "ปท"
   },
   {
     "x": 4,
     "y": 8,
     "enName": "NakhonNayok",
     "enAbbr": "NYK",
-    "thName": "นครนายก",
-    "thAbbr": "นย"
+    "localName": "นครนายก",
+    "localAbbr": "นย"
   },
   {
     "x": 5,
     "y": 8,
     "enName": "PrachinBuri",
     "enAbbr": "PRI",
-    "thName": "ปราจีนบุรี",
-    "thAbbr": "ปจ"
+    "localName": "ปราจีนบุรี",
+    "localAbbr": "ปจ"
   },
   {
     "x": 1,
     "y": 9,
     "enName": "Ratchaburi",
     "enAbbr": "RBR",
-    "thName": "ราชบุรี",
-    "thAbbr": "รบ"
+    "localName": "ราชบุรี",
+    "localAbbr": "รบ"
   },
   {
     "x": 2,
     "y": 9,
     "enName": "NakhonPathom",
     "enAbbr": "NPT",
-    "thName": "นครปฐม",
-    "thAbbr": "นฐ"
+    "localName": "นครปฐม",
+    "localAbbr": "นฐ"
   },
   {
     "x": 3,
     "y": 9,
     "enName": "Bangkok",
     "enAbbr": "BKK",
-    "thName": "กรุงเทพมหานคร",
-    "thAbbr": "กทม"
+    "localName": "กรุงเทพมหานคร",
+    "localAbbr": "กทม"
   },
   {
     "x": 4,
     "y": 9,
     "enName": "ChonBuri",
     "enAbbr": "CBI",
-    "thName": "ชลบุรี",
-    "thAbbr": "ชบ"
+    "localName": "ชลบุรี",
+    "localAbbr": "ชบ"
   },
   {
     "x": 5,
     "y": 9,
     "enName": "Chachoengsao",
     "enAbbr": "CCO",
-    "thName": "ฉะเชิงเทรา",
-    "thAbbr": "ฉช"
+    "localName": "ฉะเชิงเทรา",
+    "localAbbr": "ฉช"
   },
   {
     "x": 6,
     "y": 9,
     "enName": "SaKaeo",
     "enAbbr": "SKW",
-    "thName": "สระแก้ว",
-    "thAbbr": "สก"
+    "localName": "สระแก้ว",
+    "localAbbr": "สก"
   },
   {
     "x": 1,
     "y": 10,
     "enName": "Phetchaburi",
     "enAbbr": "PBI",
-    "thName": "เพชรบุรี",
-    "thAbbr": "พบ"
+    "localName": "เพชรบุรี",
+    "localAbbr": "พบ"
   },
   {
     "x": 2,
     "y": 10,
     "enName": "SamutSongkhram",
     "enAbbr": "SKM",
-    "thName": "สมุทรสงคราม",
-    "thAbbr": "สส"
+    "localName": "สมุทรสงคราม",
+    "localAbbr": "สส"
   },
   {
     "x": 3,
     "y": 10,
     "enName": "SamutSakhon",
     "enAbbr": "SKN",
-    "thName": "สมุทรสาคร",
-    "thAbbr": "สค"
+    "localName": "สมุทรสาคร",
+    "localAbbr": "สค"
   },
   {
     "x": 4,
     "y": 10,
     "enName": "SamutPrakan",
     "enAbbr": "SPK",
-    "thName": "สมุทรปราการ",
-    "thAbbr": "สป"
+    "localName": "สมุทรปราการ",
+    "localAbbr": "สป"
   },
   {
     "x": 5,
     "y": 10,
     "enName": "Rayong",
     "enAbbr": "RYG",
-    "thName": "ระยอง",
-    "thAbbr": "รย"
+    "localName": "ระยอง",
+    "localAbbr": "รย"
   },
   {
     "x": 6,
     "y": 10,
     "enName": "Chanthaburi",
     "enAbbr": "CTI",
-    "thName": "จันทบุรี",
-    "thAbbr": "จบ"
+    "localName": "จันทบุรี",
+    "localAbbr": "จบ"
   },
   {
     "x": 1,
     "y": 11,
     "enName": "PrachuapKhiriKhan",
     "enAbbr": "PKN",
-    "thName": "ประจวบคีรีขันธ์",
-    "thAbbr": "ปข"
+    "localName": "ประจวบคีรีขันธ์",
+    "localAbbr": "ปข"
   },
   {
     "x": 6,
     "y": 11,
     "enName": "Trat",
     "enAbbr": "TRT",
-    "thName": "ตราด",
-    "thAbbr": "ตร"
+    "localName": "ตราด",
+    "localAbbr": "ตร"
   },
   {
     "x": 0,
     "y": 12,
     "enName": "Ranong",
     "enAbbr": "RNG",
-    "thName": "ระนอง",
-    "thAbbr": "รน"
+    "localName": "ระนอง",
+    "localAbbr": "รน"
   },
   {
     "x": 1,
     "y": 12,
     "enName": "Chumphon",
     "enAbbr": "CPN",
-    "thName": "ชุมพร",
-    "thAbbr": "ชพ"
+    "localName": "ชุมพร",
+    "localAbbr": "ชพ"
   },
   {
     "x": 0,
     "y": 13,
     "enName": "Phang-nga",
     "enAbbr": "PNA",
-    "thName": "พังงา",
-    "thAbbr": "พง"
+    "localName": "พังงา",
+    "localAbbr": "พง"
   },
   {
     "x": 1,
     "y": 13,
     "enName": "SuratThani",
     "enAbbr": "SNI",
-    "thName": "สุราษฎร์ธานี",
-    "thAbbr": "สฎ"
+    "localName": "สุราษฎร์ธานี",
+    "localAbbr": "สฎ"
   },
   {
     "x": 0,
     "y": 14,
     "enName": "Phuket",
     "enAbbr": "PKT",
-    "thName": "ภูเก็ต",
-    "thAbbr": "ภก"
+    "localName": "ภูเก็ต",
+    "localAbbr": "ภก"
   },
   {
     "x": 1,
     "y": 14,
     "enName": "Krabi",
     "enAbbr": "KBI",
-    "thName": "กระบี่",
-    "thAbbr": "กบ"
+    "localName": "กระบี่",
+    "localAbbr": "กบ"
   },
   {
     "x": 2,
     "y": 14,
     "enName": "NakhonSiThammarat",
     "enAbbr": "NRT",
-    "thName": "นครศรีธรรมราช",
-    "thAbbr": "นศ"
+    "localName": "นครศรีธรรมราช",
+    "localAbbr": "นศ"
   },
   {
     "x": 2,
     "y": 15,
     "enName": "Trang",
     "enAbbr": "TRG",
-    "thName": "ตรัง",
-    "thAbbr": "ตง"
+    "localName": "ตรัง",
+    "localAbbr": "ตง"
   },
   {
     "x": 3,
     "y": 15,
     "enName": "Phatthalung",
     "enAbbr": "PLG",
-    "thName": "พัทลุง",
-    "thAbbr": "พท"
+    "localName": "พัทลุง",
+    "localAbbr": "พท"
   },
   {
     "x": 3,
     "y": 16,
     "enName": "Satun",
     "enAbbr": "STN",
-    "thName": "สตูล",
-    "thAbbr": "สต"
+    "localName": "สตูล",
+    "localAbbr": "สต"
   },
   {
     "x": 4,
     "y": 16,
     "enName": "Songkhla",
     "enAbbr": "SKA",
-    "thName": "สงขลา",
-    "thAbbr": "สข"
+    "localName": "สงขลา",
+    "localAbbr": "สข"
   },
   {
     "x": 5,
     "y": 16,
     "enName": "Pattani",
     "enAbbr": "PTN",
-    "thName": "ปัตตานี",
-    "thAbbr": "ปน"
+    "localName": "ปัตตานี",
+    "localAbbr": "ปน"
   },
   {
     "x": 5,
     "y": 17,
     "enName": "Yala",
     "enAbbr": "YLA",
-    "thName": "ยะลา",
-    "thAbbr": "ยล"
+    "localName": "ยะลา",
+    "localAbbr": "ยล"
   },
   {
     "x": 6,
     "y": 17,
     "enName": "Narathiwat",
     "enAbbr": "NWT",
-    "thName": "นราธิวาส",
-    "thAbbr": "นธ"
+    "localName": "นราธิวาส",
+    "localAbbr": "นธ"
   }
 ];
 }));

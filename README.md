@@ -34,8 +34,8 @@ The data in each file is an array of tiles (provinces). Each tile is in this for
     "y": 0, // row index
     "enName": "ChiangRai",
     "enAbbr": "CRI",
-    "thName": "เชียงราย",
-    "thAbbr": "ชร"
+    "localName": "เชียงราย",
+    "localAbbr": "ชร"
   },
   ...
 ]
@@ -79,7 +79,7 @@ d3.json('path/to/gridmap-layout-thailand/dist/gridmap-layout-thailand.json', fun
     .attr('x', options.rectWidth/2)
     .attr('y', options.rectHeight/2 + 2)
     .style('text-anchor', 'middle')
-    .text(function(d){return d.thAbbr;});
+    .text(function(d){return d.localAbbr;});
 });
 ```
 

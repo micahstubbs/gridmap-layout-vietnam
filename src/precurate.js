@@ -10,10 +10,12 @@ var options = {
   rectSize: 16,
   gridSize: 10,
   offsetX: -72,
-  offsetY: -24
+  offsetY: -24,
+  mapScale: 1700,
+  mapRotate: [-100.6331, -13.2]
 };
 
-var mapData = require(inputDir + '/thailand.json');
+var mapData = require(inputDir + '/vietnam.json');
 var provinces = util.readCsv(inputDir + '/provinces.csv');
 var provinceLookup = _.indexBy(provinces, function(d){return d.enName;});
 
@@ -21,9 +23,10 @@ var width = 352;
 var height = 496;
 
 var projection = d3.geo.mercator()
-  .scale(1700)
-  // Customize the projection to make the center of Thailand become the center of the map
-  .rotate([-100.6331, -13.2])
+  .scale(mapScale)
+  // Customize the projection to set the center of the map where we specify
+  // in the options
+  .rotate(mapRotate)
   .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()

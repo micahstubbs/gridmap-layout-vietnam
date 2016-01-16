@@ -1,78 +1,64 @@
-enName,enAbbr,thName,thAbbr
-Krabi,KBI,กระบี่,กบ
-Bangkok,BKK,กรุงเทพมหานคร,กทม
-Kanchanaburi,KRI,กาญจนบุรี,กจ
-Kalasin,KSN,กาฬสินธุ์,กส
-KamphaengPhet,KPT,กำแพงเพชร,กพ
-KhonKaen,KKN,ขอนแก่น,ขก
-Chanthaburi,CTI,จันทบุรี,จบ
-Chachoengsao,CCO,ฉะเชิงเทรา,ฉช
-ChonBuri,CBI,ชลบุรี,ชบ
-ChaiNat,CNT,ชัยนาท,ชน
-Chaiyaphum,CPM,ชัยภูมิ,ชย
-Chumphon,CPN,ชุมพร,ชพ
-ChiangRai,CRI,เชียงราย,ชร
-ChiangMai,CMI,เชียงใหม่,ชม
-Trang,TRG,ตรัง,ตง
-Trat,TRT,ตราด,ตร
-Tak,TAK,ตาก,ตก
-NakhonNayok,NYK,นครนายก,นย
-NakhonPathom,NPT,นครปฐม,นฐ
-NakhonPhanom,NPM,นครพนม,นพ
-NakhonRatchasima,NMA,นครราชสีมา,นม
-NakhonSiThammarat,NRT,นครศรีธรรมราช,นศ
-NakhonSawan,NSN,นครสวรรค์,นว
-Nonthaburi,NBI,นนทบุรี,นบ
-Narathiwat,NWT,นราธิวาส,นธ
-Nan,NAN,น่าน,นน
-BeungKan,BKN,บึงกาฬ,บก
-BuriRam,BRM,บุรีรัมย์,บร
-PathumThani,PTE,ปทุมธานี,ปท
-PrachuapKhiriKhan,PKN,ประจวบคีรีขันธ์,ปข
-PrachinBuri,PRI,ปราจีนบุรี,ปจ
-Pattani,PTN,ปัตตานี,ปน
-PhraNakhonSiAyutthaya,AYA,พระนครศรีอยุธยา,อย
-Phayao,PYO,พะเยา,พย
-Phang-nga,PNA,พังงา,พง
-Phatthalung,PLG,พัทลุง,พท
-Phichit,PCT,พิจิตร,พจ
-Phitsanulok,PLK,พิษณุโลก,พล
-Phetchaburi,PBI,เพชรบุรี,พบ
-Phetchabun,PNB,เพชรบูรณ์,พช
-Phrae,PRE,แพร่,พร
-Phuket,PKT,ภูเก็ต,ภก
-MahaSarakham,MKM,มหาสารคาม,มค
-Mukdahan,MDH,มุกดาหาร,มห
-MaeHongSon,MSN,แม่ฮ่องสอน,มส
-Yasothon,YST,ยโสธร,ยส
-Yala,YLA,ยะลา,ยล
-RoiEt,RET,ร้อยเอ็ด,รอ
-Ranong,RNG,ระนอง,รน
-Rayong,RYG,ระยอง,รย
-Ratchaburi,RBR,ราชบุรี,รบ
-LopBuri,LRI,ลพบุรี,ลบ
-Lampang,LPG,ลำปาง,ลป
-Lamphun,LPN,ลำพูน,ลพ
-Loei,LEI,เลย,ลย
-SiSaKet,SSK,ศรีสะเกษ,ศก
-SakonNakhon,SNK,สกลนคร,สน
-Songkhla,SKA,สงขลา,สข
-Satun,STN,สตูล,สต
-SamutPrakan,SPK,สมุทรปราการ,สป
-SamutSongkhram,SKM,สมุทรสงคราม,สส
-SamutSakhon,SKN,สมุทรสาคร,สค
-SaKaeo,SKW,สระแก้ว,สก
-Saraburi,SRI,สระบุรี,สบ
-SingBuri,SBR,สิงห์บุรี,สห
-Sukhothai,STI,สุโขทัย,สท
-SuphanBuri,SPB,สุพรรณบุรี,สพ
-SuratThani,SNI,สุราษฎร์ธานี,สฎ
-Surin,SRN,สุรินทร์,สร
-NongKhai,NKI,หนองคาย,นค
-NongBuaLamPhu,NBP,หนองบัวลำภู,นภ
-AngThong,ATG,อ่างทอง,อท
-AmnatCharoen,ACR,อำนาจเจริญ,อจ
-UdonThani,UDN,อุดรธานี,อด
-Uttaradit,UTT,อุตรดิตถ์,อต
-UthaiThani,UTI,อุทัยธานี,อน
-UbonRatchathani,UBN,อุบลราชธานี,อบ
+enName,enAbbr,localName,localAbbr
+An Giang,AG,An Giang,AG
+Bà Rịa – Vũng Tàu,BV,Bà Rịa – Vũng Tàu,BV
+Bắc Cạn,BC,Bắc Cạn,BC
+Bắc Giang,BG,Bắc Giang,BG
+Bạc Liêu,BL,Bạc Liêu,BL
+Bắc Ninh,BN,Bắc Ninh,BN
+Bến Tre,BT,Bến Tre,BT
+Bình Định,BĐ,Bình Định,BĐ
+Bình Dương,BD,Bình D­ương,BD
+Bình Phước,BP,Bình Ph­ước,BP
+Bình Thuận,BTh,Bình Thuận,BTh
+Cà Mau,CM,Cà Mau,CM
+Cần Thơ City,CT,Cần Thơ,CT
+Cao Bằng,CB,Cao Bằng,CB
+Đà Nẵng City,ĐNa,Đà Nẵng,ĐNa
+Đắk Lắk,ĐL,Đắc Lắc,ĐL
+Đắk Nông,ĐNô,Đắc Nông,ĐNô
+Điện Biên,ĐB,Điện Biên,ĐB
+Đồng Nai,ĐN,Đồng Nai,ĐN
+Đồng Tháp,ĐT,Đồng Tháp,ĐT
+Gia Lai,GL,Gia Lai,GL
+Hà Giang,HG,Hà Giang,HG
+Hà Nam,HNa,Hà Nam,HNa
+Hà Nội City,HN,Hà Nội,HN
+Hà Tĩnh,HT,Hà Tĩnh,HT
+Hải Dương,HD,Hải D­ương,HD
+Hải Phòng City,HP,Hải Phòng,HP
+Hậu Giang,HGi,Hậu Giang,HGi
+Hòa Bình,HB,Hoà Bình,HB
+Hưng Yên,HY,Hưng Yên,HY
+Khánh Hòa,KH,Khánh Hoà,KH
+Kiên Giang,KG,Kiên Giang,KG
+Kon Tum,KT,Kon Tum,KT
+Lai Châu,LC,Lai Châu,LC
+Lâm Đồng,LĐ,Lâm Đồng,LĐ
+Lạng Sơn,LS,Lạng Sơn,LS
+Lào Cai,LCa,Lào Cai,LCa
+Long An,LA,Long An,LA
+Nam Định,NĐ,Nam Định,NĐ
+Nghệ An,NA,Nghệ An,NA
+Ninh Bình,NB,Ninh Bình,NB
+Ninh Thuận,NT,Ninh Thuận,NT
+Phú Thọ,PT,Phú Thọ,PT
+Phú Yên,PY,Phú Yên,PY
+Quảng Bình,QB,Quảng Bình,QB
+Quảng Nam,QNa,Quảng Nam,QNa
+Quảng Ngãi,QNg,Quảng Ngãi,QNg
+Quảng Ninh,QN,Quảng Ninh,QN
+Quảng Trị,QT,Quảng Trị,QT
+Sóc Trăng,ST,Sóc Trăng,ST
+Sơn La,SL,Sơn La,SL
+Tây Ninh,TN,Tây Ninh,TN
+Thái Bình,TB,Thái Bình,TB
+Thái Nguyên,TNg,Thái Nguyên,TNg
+Thanh Hóa,TH,Thanh Hoá,TH
+Thừa Thiên–Huế,TTH,Thừa Thiên Huế,TTH
+Tiền Giang,TG,Tiền Giang,TG
+Hồ Chí Minh City,HCM,Tp. Hồ Chí Minh,HCM
+Trà Vinh,TV,Trà Vinh,TV
+Tuyên Quang,TQ,Tuyên Quang,TQ
+Vĩnh Long,VL,Vĩnh Long,VL
+Vĩnh Phúc,VP,Vĩnh Phúc,VP
+Yên Bái,YB,Yên Bái,YB
