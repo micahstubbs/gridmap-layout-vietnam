@@ -1,8 +1,8 @@
 {
-  "name": "gridmap-layout-thailand",
+  "name": "gridmap-layout-vietnam",
   "version": "0.0.3",
-  "description": "Positions of tiles for Thailand grid map visualization",
-  "main": "dist/gridmap-layout-thailand.min.js",
+  "description": "Positions of tiles for Vietnam grid map visualization",
+  "main": "dist/gridmap-layout-vietnam.min.js",
   "author": "Krist Wongsuphasawat <krist.wongz@gmail.com> (http://kristw.yellowpigz.com)",
   "license": "MIT",
   "keywords": [
@@ -30,6 +30,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "precurate": "node src/precurate.js",
-    "postcurate": "node src/postcurate.js && node_modules/uglify-js/bin/uglifyjs --compress --mangle -- src/output/gridmap-layout-thailand.js > src/output/gridmap-layout-thailand.min.js && cp src/input/*.* examples/data && cp src/output/*.* examples/data && cp src/output/gridmap-layout*.* dist"
+    "postcurate": "node src/postcurate.js && node_modules/uglify-js/bin/uglifyjs --compress --mangle -- src/output/gridmap-layout-vietnam.js > src/output/gridmap-layout-vietnam.min.js && cp src/input/*.* examples/data && cp src/output/*.* examples/data && cp src/output/gridmap-layout*.* dist"
   }
 }
