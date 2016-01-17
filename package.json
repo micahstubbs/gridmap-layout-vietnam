@@ -4,12 +4,16 @@
   "description": "Positions of tiles for Vietnam grid map visualization",
   "main": "dist/gridmap-layout-vietnam.min.js",
   "author": "Krist Wongsuphasawat <krist.wongz@gmail.com> (http://kristw.yellowpigz.com)",
+  "contributors": [
+    "Krist Wongsuphasawat <krist.wongz@gmail.com>",
+    "Micah Stubbs <micahstubbs@gmail.com>"
+  ],
   "license": "MIT",
   "keywords": [
     "gridmap",
     "gridmap-layout",
     "visualization",
-    "thailand"
+    "vietnam"
   ],
   "dependencies": {
     "json2csv": "^3.0.2"
