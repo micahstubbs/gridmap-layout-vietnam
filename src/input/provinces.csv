@@ -1,7 +1,7 @@
 enName,enAbbr,localName,localAbbr
 An Giang,AG,An Giang,AG
-Bà Rịa – Vũng Tàu,BV,Bà Rịa – Vũng Tàu,BV
-Bắc Cạn,BC,Bắc Cạn,BC
+Bà Rịa - Vũng Tàu,BV,Bà Rịa – Vũng Tàu,BV
+Bắc Kạn,BC,Bắc Cạn,BC
 Bắc Giang,BG,Bắc Giang,BG
 Bạc Liêu,BL,Bạc Liêu,BL
 Bắc Ninh,BN,Bắc Ninh,BN
@@ -11,21 +11,21 @@ Bình Dương,BD,Bình D­ương,BD
 Bình Phước,BP,Bình Ph­ước,BP
 Bình Thuận,BTh,Bình Thuận,BTh
 Cà Mau,CM,Cà Mau,CM
-Cần Thơ City,CT,Cần Thơ,CT
+Cần Thơ,CT,Cần Thơ,CT
 Cao Bằng,CB,Cao Bằng,CB
-Đà Nẵng City,ĐNa,Đà Nẵng,ĐNa
+Đà Nẵng,ĐNa,Đà Nẵng,ĐNa
 Đắk Lắk,ĐL,Đắc Lắc,ĐL
-Đắk Nông,ĐNô,Đắc Nông,ĐNô
+Đăk Nông,ĐNô,Đắc Nông,ĐNô
 Điện Biên,ĐB,Điện Biên,ĐB
 Đồng Nai,ĐN,Đồng Nai,ĐN
 Đồng Tháp,ĐT,Đồng Tháp,ĐT
 Gia Lai,GL,Gia Lai,GL
 Hà Giang,HG,Hà Giang,HG
 Hà Nam,HNa,Hà Nam,HNa
-Hà Nội City,HN,Hà Nội,HN
+Hà Nội,HN,Hà Nội,HN
 Hà Tĩnh,HT,Hà Tĩnh,HT
 Hải Dương,HD,Hải D­ương,HD
-Hải Phòng City,HP,Hải Phòng,HP
+Hải Phòng,HP,Hải Phòng,HP
 Hậu Giang,HGi,Hậu Giang,HGi
 Hòa Bình,HB,Hoà Bình,HB
 Hưng Yên,HY,Hưng Yên,HY
@@ -54,9 +54,9 @@ Tây Ninh,TN,Tây Ninh,TN
 Thái Bình,TB,Thái Bình,TB
 Thái Nguyên,TNg,Thái Nguyên,TNg
 Thanh Hóa,TH,Thanh Hoá,TH
-Thừa Thiên–Huế,TTH,Thừa Thiên Huế,TTH
+Thừa Thiên - Huế,TTH,Thừa Thiên Huế,TTH
 Tiền Giang,TG,Tiền Giang,TG
-Hồ Chí Minh City,HCM,Tp. Hồ Chí Minh,HCM
+Hồ Chí Minh city,HCM,Tp. Hồ Chí Minh,HCM
 Trà Vinh,TV,Trà Vinh,TV
 Tuyên Quang,TQ,Tuyên Quang,TQ
 Vĩnh Long,VL,Vĩnh Long,VL

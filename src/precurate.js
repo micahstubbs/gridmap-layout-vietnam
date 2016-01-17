@@ -21,6 +21,7 @@ var options = {
 var mapData = require(inputDir + '/vietnam.json');
 var provinces = util.readCsv(inputDir + '/provinces.csv');
 var provinceLookup = _.indexBy(provinces, function(d){return d.enName;});
+//console.log('provinceLookup', provinceLookup);
 
 var width = 352;
 var height = 496;
@@ -38,13 +39,15 @@ var features = mapData.features;
 var blocks = features.map(function(feature){
   var centroid = path.centroid(feature);
   return {
-    name: feature.properties.CHA_NE,
+    name: feature['properties']['NAME_1'],
     cx: centroid[0],
     cy: centroid[1],
     clusterX: centroid[0],
     clusterY: centroid[1]
   };
 });
+
+//console.log('blocks', blocks);
 
 var force = d3.layout.force()
   .nodes(blocks)
@@ -91,11 +94,16 @@ function onEnd(){
     return a.col-b.col;
   });
 
+  //console.log('cells', cells);
+
   var matrix = util.convertListToMatrix(
     cells,
     function(d){return d.row;},
     function(d){return d.col;},
-    function(d){return provinceLookup[d.name].enAbbr;}
+    function(d){
+      //console.log('d', d);
+      return provinceLookup[d.name].enAbbr;
+    }
   );
 
   console.log(matrix);

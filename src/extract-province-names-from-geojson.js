@@ -15,8 +15,6 @@ var provinces = mapData['features'].map(function(d) {
 	};
 })
 
-
-
 console.log('provinces', provinces);
 
 var fields = ['province'];
