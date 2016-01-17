@@ -11,7 +11,9 @@
     "visualization",
     "thailand"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "json2csv": "^3.0.2"
+  },
   "devDependencies": {
     "d3": "~3.5",
     "lodash": "~3.10.1",

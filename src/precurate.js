@@ -6,13 +6,16 @@ var util = require('./util.js');
 var inputDir = __dirname + '/input';
 var outputDir = __dirname + '/output';
 
+// map parameters generated from this bl.ock
+// http://bl.ocks.org/ufenegga/a8d01671b04b326d36de
+
 var options = {
   rectSize: 16,
   gridSize: 10,
   offsetX: -72,
   offsetY: -24,
-  mapScale: 1700,
-  mapRotate: [-100.6331, -13.2]
+  mapScale: 1152,
+  mapRotate: [-105.12, -16.56] // Customize the projection to center the map on Vietnam
 };
 
 var mapData = require(inputDir + '/vietnam.json');
@@ -23,10 +26,8 @@ var width = 352;
 var height = 496;
 
 var projection = d3.geo.mercator()
-  .scale(mapScale)
-  // Customize the projection to set the center of the map where we specify
-  // in the options
-  .rotate(mapRotate)
+  .scale(options.mapScale)
+  .rotate(options.mapRotate)
   .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
