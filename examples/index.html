@@ -137,8 +137,8 @@ var svgs = d3.range(0,2).map(function(step){
 queue()
   .defer(d3.json, 'data/vietnam.json')
   .defer(d3.json, 'data/gridmap-layout-vietnam.json')
-  .await(function(error, vietnam, vngridmap){
-    var features = vietnam.features;
+  .await(function(error, country, gridmap){
+    var features = country.features;
 
     // Update color scale domain based on data
     color.domain([0, d3.max(features, nameLength)]);
@@ -160,7 +160,7 @@ queue()
     var sEnter = svgs[1].append('g')
         .attr('transform', 'translate('+(46)+','+(8)+')')
       .selectAll('g')
-        .data(vngridmap)
+        .data(gridmap)
       .enter().append('g')
         .attr('transform', function(d){return 'translate('+(d.x*options.rectSize)+','+(d.y*options.rectSize)+')';});
 

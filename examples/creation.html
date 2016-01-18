@@ -73,19 +73,20 @@ text{
 <script>
 
 var options = {
-  rectSize: 16,
+  rectSize: 19,
   gridSize: 10,
   offsetX: -72,
-  offsetY: -24
+  offsetY: -24,
+  mapScale: 1700,
+  mapRotate: [-105.12, -16] // Customize the projection to center the map on Vietnam
 };
 
 var width = 352;
 var height = 496;
 
 var projection = d3.geo.mercator()
-  .scale(1700)
-  // Customize the projection to make the center of Thailand become the center of the map
-  .rotate([-100.6331, -13.2])
+  .scale(options.mapScale)
+  .rotate(options.mapRotate)
   .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
@@ -142,12 +143,12 @@ var svgs = d3.range(0,5).map(function(step){
 });
 
 queue()
-  .defer(d3.json, 'data/thailand.json')
+  .defer(d3.json, 'data/vietnam.json')
   .defer(d3.json, 'data/step1_collision.json')
   .defer(d3.json, 'data/step2_snap.json')
-  .defer(d3.json, 'data/gridmap-layout-thailand.json')
-  .await(function(error, thailand, step1, step2, thgridmap){
-    var features = thailand.features;
+  .defer(d3.json, 'data/gridmap-layout-vietnam.json')
+  .await(function(error, country, step1, step2, gridmap){
+    var features = country.features;
 
     function drawMap(container){
       // Draw each province as a path
@@ -171,7 +172,7 @@ queue()
           .style('opacity', 0.5)
           .style('fill', '#409A99')
           .on('click', function(d){
-            console.log(d.properties.CHA_NE);
+            console.log(d['name']);
           });
 
       if(showOrigin){
@@ -232,7 +233,7 @@ queue()
     drawDisplacement(svgs[2], step2);
 
     svgs[4].selectAll('rect')
-        .data(thgridmap)
+        .data(gridmap)
       .enter().append('rect')
         .attr('x', function(d){return d.x*options.rectSize;})
         .attr('y', function(d){return d.y*options.rectSize;})
