@@ -1,6 +1,6 @@
 # gridmap-layout-vietnam
 
-Positions of tiles for Vietnam grid map visualization. See [demo](http://kristw.github.io/gridmap-layout-vietnam/)
+Positions of tiles for Vietnam grid map visualization.
 
 <p align="center">
   <img src="examples/screenshot.png">
