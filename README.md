@@ -6,18 +6,6 @@ Positions of tiles for Vietnam grid map visualization. See [demo](http://kristw.
   <img src="examples/screenshot.png">
 </p>
 
-### Install
-
-```
-npm install gridmap-layout-vietnam --save
-```
-
-or
-
-```
-bower install gridmap-layout-vietnam --save
-```
-
 The data files can be found in the ```dist``` directory of the installed package. Either one of these files below can be used:
 
 - dist/gridmap-layout-vietnam.json
@@ -29,15 +17,15 @@ The data in each file is an array of tiles (provinces). Each tile is in this for
 
 ```javascript
 [
-  {
-    "x": 2, // column index
-    "y": 0, // row index
-    "enName": "ChiangRai",
-    "enAbbr": "CRI",
-    "localName": "เชียงราย",
-    "localAbbr": "ชร"
-  },
-  ...
+   {  
+      "x":3, // column index
+      "y":3, // row index
+      "enName":"Hà Nội",
+      "enAbbr":"HN",
+      "localName":"Hà Nội",
+      "localAbbr":"HN"
+   },
+   ...
 ]
 ```
 
@@ -97,4 +85,4 @@ After editing ```src/output/step3.csv``` and save as ```src/output/step3_curated
 npm run postcurate
 ```
 
-Copyright (c) 2016 Krist Wongsuphasawat. Licensed under the MIT License
+Copyright (c) 2016 Krist Wongsuphasawat, @micahstubbs Licensed under the MIT License
