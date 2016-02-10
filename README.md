@@ -1,6 +1,6 @@
-# gridmap-layout-thailand
+# gridmap-layout-vietnam
 
-Positions of tiles for Thailand grid map visualization. See [demo](http://kristw.github.io/gridmap-layout-thailand/)
+Positions of tiles for Vietnam grid map visualization. See [demo](http://kristw.github.io/gridmap-layout-vietnam/)
 
 <p align="center">
   <img src="examples/screenshot.png">
@@ -9,21 +9,21 @@ Positions of tiles for Thailand grid map visualization. See [demo](http://kristw
 ### Install
 
 ```
-npm install gridmap-layout-thailand --save
+npm install gridmap-layout-vietnam --save
 ```
 
 or
 
 ```
-bower install gridmap-layout-thailand --save
+bower install gridmap-layout-vietnam --save
 ```
 
 The data files can be found in the ```dist``` directory of the installed package. Either one of these files below can be used:
 
-- dist/gridmap-layout-thailand.json
-- dist/gridmap-layout-thailand.csv
-- dist/gridmap-layout-thailand.js
-- dist/gridmap-layout-thailand.min.js
+- dist/gridmap-layout-vietnam.json
+- dist/gridmap-layout-vietnam.csv
+- dist/gridmap-layout-vietnam.js
+- dist/gridmap-layout-vietnam.min.js
 
 The data in each file is an array of tiles (provinces). Each tile is in this format:
 
@@ -46,7 +46,7 @@ The data in each file is an array of tiles (provinces). Each tile is in this for
 One way to use this is to use with [D3.js](http://d3js.org/). See a live example on [bl.ocks.org](http://bl.ocks.org/kristw/09ead46529638309cd60). Or you can use the ready-to-use component [d3Kit-gridmap](https://github.com/kristw/d3kit-gridmap).
 
 ```javascript
-d3.json('path/to/gridmap-layout-thailand/dist/gridmap-layout-thailand.json', function(error, gridmapLayoutThailand){
+d3.json('path/to/gridmap-layout-vietnam/dist/gridmap-layout-vietnam.json', function(error, gridmapLayoutVietnam){
   var options = {
     rectWidth: 25,
     rectHeight: 25
@@ -63,7 +63,7 @@ d3.json('path/to/gridmap-layout-thailand/dist/gridmap-layout-thailand.json', fun
 
   var sEnter = svg.append('g')
     .selectAll('g')
-      .data(gridmapLayoutThailand)
+      .data(gridmapLayoutVietnam)
     .enter().append('g')
       .attr('transform', function(d){return 'translate('+(d.x*options.rectWidth)+','+(d.y*options.rectHeight)+')';});
 
@@ -84,8 +84,6 @@ d3.json('path/to/gridmap-layout-thailand/dist/gridmap-layout-thailand.json', fun
 ```
 
 ### Development
-
-Read about the process from this [blog post](https://medium.com/@kristw/creating-grid-map-for-thailand-397b53a4ecf).
 
 First, generate an output from the *force-directed + snap-to-grid* approach. The output is available at ```src/output/step3.csv``` and can be opened in Excel or Google Sheets to curate manually.
 
